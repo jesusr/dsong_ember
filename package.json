@@ -1,0 +1,19 @@
+{
+  "name": "dsong_ember",
+  "version": "1.0.0",
+  "description": "Ember app for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusr/dsong_ember.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusr/dsong_ember/issues"
+  },
+  "homepage": "https://github.com/jesusr/dsong_ember#readme"
+}
